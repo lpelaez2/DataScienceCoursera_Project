@@ -1,4 +1,4 @@
-## Esto es un título en un archivo .md
+## Esto es un título en un archivo markdown (.md)
 ### Y esto un subtítulo
 #### Qué será esto?  --> Un sub-subtítulo jejeje
 Y esto? --> Un texto normal
